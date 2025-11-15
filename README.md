@@ -22,8 +22,6 @@ This application follows a Model-View-Controller (MVC) pattern where:
 The application expects a MySQL database and table set up as follows. The connection details are hardcoded in `StudentDAO.java`:
 
 * **URL:** `jdbc:mysql://localhost:3306/student_management`
-* **User:** `root`
-* **Password:** `Bensam^061506`
 
 ### SQL Table Schema
 
